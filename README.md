@@ -1,5 +1,5 @@
 # nano_MLOps
-
+"""
 git clone https://github.com/drsagec/udacity_repo.git  # get clone of the repo - main branch
 git status # get status
 git add . # add all files 
@@ -12,4 +12,4 @@ git checkout -b test_branch # chekout to test_branch
 git checkout master  # chekout to master 
 git merge test_branch # merge with main 
 
-git branch -d test_branch # delete branch 
+git branch -d test_branch # delete branch """
